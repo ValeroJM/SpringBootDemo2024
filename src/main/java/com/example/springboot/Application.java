@@ -7,7 +7,7 @@ import org.springframework.context.ApplicationContext;
 
 import java.util.Arrays;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class Application {
 
     public static void main(String[] args) {
